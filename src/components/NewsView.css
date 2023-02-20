@@ -1,0 +1,16 @@
+.hr-lines{
+    position: relative;
+    padding: 2rem;
+  }
+  .hr-lines:before{
+    content:" ";
+    height: 1px;
+   width: 3rem;
+    background: rgb(44, 43, 43);
+    display: block;
+    position: absolute;
+    top: 60%;
+    left: 10rem;
+  }
+ 
+  
